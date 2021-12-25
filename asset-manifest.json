@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/connorandindigo.com/static/css/main.073c9b0a.css",
+    "main.js": "/connorandindigo.com/static/js/main.3e852d8d.js",
+    "static/js/787.c357a47b.chunk.js": "/connorandindigo.com/static/js/787.c357a47b.chunk.js",
+    "static/media/logo.svg": "/connorandindigo.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/connorandindigo.com/index.html",
+    "main.073c9b0a.css.map": "/connorandindigo.com/static/css/main.073c9b0a.css.map",
+    "main.3e852d8d.js.map": "/connorandindigo.com/static/js/main.3e852d8d.js.map",
+    "787.c357a47b.chunk.js.map": "/connorandindigo.com/static/js/787.c357a47b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3e852d8d.js"
+  ]
+}
