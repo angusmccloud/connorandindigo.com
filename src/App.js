@@ -9,7 +9,7 @@ function App() {
         slidesLink="https://docs.google.com/presentation/d/1sGDpOobCcTgwb4I1iHs0nJZW_ogEsmp4VifuG3c_l28"
         slideDuration={300}
         position={1}
-        // showControls={true}
+        showControls={true}
         loop={true}
       />
     </div>
